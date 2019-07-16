@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4 PHASE 1</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country:Kenya</string>
+    <string name="email">Email:petexchristine@gmail.com</string>
+    <string name="phonenumber">PhoneNumber: 0723630986</string>
+    <string name="slack_username">Slack UserName: @Christine</string>
+    <string name="name">CHRISTINE PETER</string>
+</resources>

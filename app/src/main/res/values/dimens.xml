@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimenspacing">30dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="start_margin">60dp</dimen>
+    <dimen name="margin_view">100dp</dimen>
+    <dimen name="spacing">10dp</dimen>
+</resources>

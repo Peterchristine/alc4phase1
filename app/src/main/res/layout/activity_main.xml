@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/welcomeTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimenspacing"
+        android:gravity="center_horizontal"
+        android:text="@string/welcome"
+        android:layout_marginStart="@dimen/start_margin"
+        android:layout_marginLeft="@dimen/start_margin"
+        android:textSize="@dimen/text_size" />
+
+    <Button
+        android:id="@+id/aboutButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/margin_view"
+        android:layout_marginLeft="@dimen/margin_view"
+        android:layout_marginTop="@dimen/dimenspacing"
+        android:text="@string/about_alc" />
+
+    <Button
+        android:id="@+id/profileButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/margin_view"
+        android:layout_marginLeft="@dimen/margin_view"
+        android:layout_marginTop="@dimen/dimenspacing"
+        android:text="@string/my_profile" />
+
+</LinearLayout>
